@@ -26,7 +26,7 @@ CERN Open Hardware Licence Version 2 - Permissive
 
 Copyright (c) 2026 Laracletteuh
 
-1. Source location: 
+1. Source location: https://github.com/Laracleteuh/projet-tank-terminale-2026-2027/
 
 2. Disclaimer:
 This documentation is provided "as is" and without any express or implied
