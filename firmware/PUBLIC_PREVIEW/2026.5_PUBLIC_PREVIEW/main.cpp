@@ -1,10 +1,10 @@
 // =============================================================================================
 // Programme Projet Tank Terminale - Spé SI
-// Version : 2026.3_PUBLIC_RELEASE
+// Version : 2026.5_PUBLIC_RELEASE
 // Carte : Arduino Mega 2560
 // Baudrate : 115200
-// Last Build : 29.08.2026 => SUCCESS
-// Last Board upload : 29.08.2026 => SUCCESS
+// Last Build : 30.08.2026 => SUCCESS
+// Last Board upload : 30.08.2026 => SUCCESS
 //
 // ATTENTION : Ce programme à été compilé avec l'outil PlatformIO et
 //             contient plusieurs fichiers. Assurez vous d'utiliser
