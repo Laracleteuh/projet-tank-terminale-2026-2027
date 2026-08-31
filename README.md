@@ -20,8 +20,11 @@ Deux types de firmware sont actuellement utilisés :
   - Les _PUBLIC_RELEASE (REL) -> firmware testé sur du materiel et certifié sans erreur, soumis à des ajouts de fonctionnalité dans le futur
 
 Chaque mise à jour est présentée sous la forme suivante : 20XX.Y_TYPE
+
 20XX -> corresponds to the year
+
 .Y -> corresponds to the version of the software released
+
 _TYPE -> either _PUBLIC_PREVIEW or _PUBLIC_RELEASE
 
 ---
