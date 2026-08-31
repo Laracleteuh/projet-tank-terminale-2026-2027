@@ -13,6 +13,17 @@ Le fichier d'environnement platformio.ini est publié dans son dossier /Platform
 Ce projet contient quelques cartes électroniques faites sur mesure. Les fichiers de celles-ci seront disponibles plus tard dans l'année, quand leur design sera validé et fonctionnel.
 Ces designs ont étés fait sur KiCAD.
 
+### Nom des versions
+
+Deux types de firmware sont actuellement utilisés : 
+  - Les _PUBLIC_PREVIEW (PR) -> firmware non-testés sur du materiel réel, soumis à des erreurs
+  - Les _PUBLIC_RELEASE (REL) -> firmware testé sur du materiel et certifié sans erreur, soumis à des ajouts de fonctionnalité dans le futur
+
+Chaque mise à jour est présentée sous la forme suivante : 20XX.Y_TYPE
+20XX -> corresponds to the year
+.Y -> corresponds to the version of the software released
+_TYPE -> either _PUBLIC_PREVIEW or _PUBLIC_RELEASE
+
 ---
 ### Licence ###
 
