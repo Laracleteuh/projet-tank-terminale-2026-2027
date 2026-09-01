@@ -52,7 +52,6 @@ struct AuthorizedUid {
 static const AuthorizedUid authorizedUids[] = {
   // Exemple (a remplacer par le vrai UID de votre badge admin) :
   // { {0xDE, 0xAD, 0xBE, 0xEF, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00}, 4 },
-  { { 0x79, 0x43, 0xC1, 0x9F, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }, 4 },
 };
 static const uint8_t authorizedCount = sizeof(authorizedUids) / sizeof(authorizedUids[0]);
 
