@@ -17,6 +17,10 @@ Ces designs ont étés fait sur KiCAD.
 
 Ce projet contient un dossier réservé à des scripts python. Ils sont fait maison et permettent de calculer des caractéristiques en rapport avec les moteurs plus facilement, n'hesitez pas à vous en servir si besoin ;). Pour moins se casser la tête pour des valeurs par défaut, dans la première input, tapez "def" pour charger les valeurs par défaut du programme. Elles seront mises à jour si jamais elles changent au cours du projet.
 
+### MatLab ###
+
+Ce projet contient un dossier réservé aux modèles MatLab et aux calculs. Dans celui-ci vous pourrez trouver le(s) modèle(s) de simulation des moteurs, et la fiche de calcul qui justifie CHAQUE valeur de MatLab (autre que celle qu'on peut trouver dans les docs techniques, vous pouvez chercher quand même, là c'est que les calculs)
+
 ### Nom des versions
 
 Deux types de firmware sont actuellement utilisés : 
