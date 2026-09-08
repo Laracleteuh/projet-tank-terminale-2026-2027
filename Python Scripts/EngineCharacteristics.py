@@ -24,9 +24,9 @@ def calcul():
     Nm = input("Vitesse de rotation nominale du moteur en tr/min : ")
     if Nm == "def":
         Nm = 1850
-        Ns = 210
+        Ns = 70
         Rse = Ns / Nm
-        Rr = 0.10
+        Rr = 0.1325
         Um = 24
         Im = 12.5
         CmAtSpeed = 0.834
