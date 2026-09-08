@@ -13,6 +13,10 @@ Le fichier d'environnement platformio.ini est publié dans son dossier /Platform
 Ce projet contient quelques cartes électroniques faites sur mesure. Les fichiers de celles-ci seront disponibles plus tard dans l'année, quand leur design sera validé et fonctionnel.
 Ces designs ont étés fait sur KiCAD.
 
+### Python Scripts ###
+
+Ce projet contient un dossier réservé à des scripts python. Ils sont fait maison et permettent de calculer des caractéristiques en rapport avec les moteurs plus facilement, n'hesitez pas à vous en servir si besoin ;). Pour moins se casser la tête pour des valeurs par défaut, dans la première input, tapez "def" pour charger les valeurs par défaut du programme. Elles seront mises à jour si jamais elles changent au cours du projet.
+
 ### Nom des versions
 
 Deux types de firmware sont actuellement utilisés : 
