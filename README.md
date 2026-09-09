@@ -21,7 +21,7 @@ Ce projet contient un dossier réservé à des scripts python. Ils sont fait mai
 
 Ce projet contient un dossier réservé aux modèles MatLab et aux calculs. Dans celui-ci vous pourrez trouver le(s) modèle(s) de simulation des moteurs, et la fiche de calcul qui justifie CHAQUE valeur de MatLab (autre que celle qu'on peut trouver dans les docs techniques, vous pouvez chercher quand même, là c'est que les calculs)
 
-### Nom des versions
+### Nom des versions ###
 
 Deux types de firmware sont actuellement utilisés : 
   - Les _PUBLIC_PREVIEW (PR) -> firmware non-testés sur du materiel réel, soumis à des erreurs
@@ -29,11 +29,11 @@ Deux types de firmware sont actuellement utilisés :
 
 Chaque mise à jour est présentée sous la forme suivante : 20XX.Y_TYPE
 
-20XX -> corresponds to the year
+20XX -> correspond à l'année d'écriture du firmware
 
-.Y -> corresponds to the version of the software released
+.Y -> correspond à la version du firmware
 
-_TYPE -> either _PUBLIC_PREVIEW or _PUBLIC_RELEASE
+_TYPE -> soit _PUBLIC_PREVIEW ou _PUBLIC_RELEASE
 
 ---
 ### Licence ###
