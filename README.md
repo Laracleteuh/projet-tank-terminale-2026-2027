@@ -21,6 +21,14 @@ Ce projet contient un dossier réservé à des scripts python. Ils sont fait mai
 
 Ce projet contient un dossier réservé aux modèles MatLab et aux calculs. Dans celui-ci vous pourrez trouver le(s) modèle(s) de simulation des moteurs, et la fiche de calcul qui justifie CHAQUE valeur de MatLab (autre que celle qu'on peut trouver dans les docs techniques, vous pouvez chercher quand même, là c'est que les calculs)
 
+### User Manuals ###
+
+Ce projet contient un dossier réservé aux manuels utilisateurs. Ces manuels seront répartis dans des dossiers selon le type d'élément qu'ils présentent (PCB par exemple)
+
+### Feuilles de Calcul ###
+
+Ce projet contient un dossier réservé aux feuilles de calculs pour le tank. Utile si besoin. (Feuilles manuscrites)
+
 ### Nom des versions ###
 
 Deux types de firmware sont actuellement utilisés : 
