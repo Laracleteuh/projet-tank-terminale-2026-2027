@@ -2,6 +2,13 @@
 
 Repo GitHub pour le projet de Tank RC des Terminales spécialités sciences de l'ingénieur. Contenu Open Source, et maintenu jusqu'en juillet 2027
 
+⚠️ **Migration du firmware écrit en C++ avec les timings gérés à la main vers TankOS, un système basé sur FreeRTOS pour micro contrôleurs AVR** ⚠️
+
+Le contenu du dossier /firmware/ ne sera pas supprimé mais ne sera plus mis à jour.
+La raison de cette mise a jour est la facilitation de la gestion des timing sur la carte.
+La dernière version du firmware sera la 2026.6_PUBLIC_PREVIEW et laissera place à TankOS 1.
+La première version de TankOS sera publiée le 15 septembre au plus tard.
+
 ### Configuration Requise ###
 
 Ce projet est basé autour de l'Arduino Mega 2560 programmé via VS Code et son extension PlatformIO.
