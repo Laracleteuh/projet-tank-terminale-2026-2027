@@ -11,7 +11,7 @@ Le fichier d'environnement platformio.ini est publié dans son dossier /Platform
 ### Tank OS ###
 
 La dernière version en date de TankOS est TankOS 1.
-[Lien vers la dernière release de TankOS](https://github.com/Laracleteuh/projet-tank-terminale-2026-2027/releases/tag/TOS1-FU29092026)
+[Lien vers la dernière release de TankOS](https://github.com/Laracleteuh/projet-tank-terminale-2026-2027/releases/tag/TOS1.1-FU11102026)
 
 *La documentation technique se trouve dans Manuel Utilisateur / Logiciel / TankOS 1.html - .pdf*
 
@@ -35,20 +35,6 @@ Ce projet contient un dossier réservé aux manuels utilisateurs. Ces manuels se
 ### Feuilles de Calcul ###
 
 Ce projet contient un dossier réservé aux feuilles de calculs pour le tank. Utile si besoin. (Feuilles manuscrites)
-
-### Nom des versions ###
-
-Deux types de firmware sont actuellement utilisés : 
-  - Les _PUBLIC_PREVIEW (PR) -> firmware non-testés sur du materiel réel, soumis à des erreurs
-  - Les _PUBLIC_RELEASE (REL) -> firmware testé sur du materiel et certifié sans erreur, soumis à des ajouts de fonctionnalité dans le futur
-
-Chaque mise à jour est présentée sous la forme suivante : 20XX.Y_TYPE
-
-20XX -> correspond à l'année d'écriture du firmware
-
-.Y -> correspond à la version du firmware
-
-_TYPE -> soit _PUBLIC_PREVIEW ou _PUBLIC_RELEASE
 
 ---
 ### Licence ###
