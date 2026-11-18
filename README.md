@@ -1,18 +1,16 @@
 # projet-tank-terminale-2026-2027 ###
 
-Repo GitHub pour le projet de Tank RC des Terminales spécialités sciences de l'ingénieur. Contenu Open Source, et maintenu jusqu'en juillet 2027
+Repo GitHub pour le projet de Tank RC TID-70 des Terminales spécialités sciences de l'ingénieur. Contenu Open Source, et maintenu jusqu'en juillet 2027
 
 ### Configuration Requise ###
 
 Ce projet est basé autour de l'Arduino Mega 2560 programmé via VS Code et son extension PlatformIO.
-Sur chaque release un fichier .zip a build et un .hex pouvant être uploadé directement sera disponible.
-Le fichier d'environnement platformio.ini est publié dans son dossier /PlatformIO/
+Sur chaque release un fichier .zip a build sera disponible.
+*Merci de télécharger la dernière version du firmware TIGER sur son repo associé
 
-### Tank OS ###
+### TIGER ###
 
-La dernière version en date de TankOS est TankOS 1.2
-
-**ATTENTION : LE FIRMWARE TANK OS EST EN MIGRATION VERS SON PROPRE REPO QUE VOICI : [REPO](https://github.com/Laracleteuh/tank-os/tree/main)**
+**ATTENTION : LE FIRMWARE TANK OS EST EN MIGRATION VERS SON PROPRE REPO QUE VOICI : [REPO TIGER](https://github.com/Laracleteuh/TIGER/tree/main)**
 Vous trouverez dedans les dernières mises à jour du firmware
 
 ### PCB Custom ###
