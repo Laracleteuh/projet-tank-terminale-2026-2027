@@ -6,7 +6,8 @@ Repo GitHub pour le projet de Tank RC TID-70 des Terminales spécialités scienc
 
 Ce projet est basé autour de l'Arduino Mega 2560 programmé via VS Code et son extension PlatformIO.
 Sur chaque release un fichier .zip a build sera disponible.
-*Merci de télécharger la dernière version du firmware TIGER sur son repo associé
+
+*Merci de télécharger la dernière version du firmware TIGER sur son repo associé*
 
 ### TIGER ###
 
